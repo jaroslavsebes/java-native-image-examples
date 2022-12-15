@@ -1,2 +1,2 @@
 # java-native-image-examples
-Spring Native Image Examples
+Java Native Image Examples
